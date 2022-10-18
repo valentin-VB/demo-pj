@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://valentin-vb.github.io/demo-pj",
+  "homepage": "https://valentin-vb.github.io/Photo-Search-APP",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /demo-pj/"
+    "build": "parcel build src/*.html --public-url /Photo-Search-APP/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valentin-VB/demo-pj.git"
+    "url": "git+https://github.com/valentin-VB/Photo-Search-APP.git"
   },
   "keywords": [],
   "author": "Valentyn Beznosko <valikbeznosko@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/valentin-VB/demo-pj/issues"
+    "url": "https://github.com/valentin-VB/Photo-Search-APP/issues"
   },
   "dependencies": {
     "axios": "^1.1.2",
